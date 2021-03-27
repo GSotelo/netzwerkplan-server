@@ -1,7 +1,7 @@
 {
   "title": "Router",
-  "ip": "192.168.0.1",
-  "port": "5000",
-  "description": "Router device",
-  "date": "2021-03-27T06:54:30.116Z"
+  "ip": "192.168.0.73",
+  "port": "8000",
+  "description": "Super router",
+  "date": "2021-03-27T08:30:56.860Z"
 }
